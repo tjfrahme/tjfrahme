@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Python and various web design projects
+
 <!--
 **tjfrahme/tjfrahme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
