@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python and various web design projects
+- 🔭 I’m currently working on BI/Data Science things and various web design projects
 
-- 🌱 I’m currently learning Einstein Analytics by day and by night Bootstrap 
+- 🌱 I’m currently learning Einstein Analytics 
 
 - ⚡ Fun fact: I once played basketball with Adam Sandler.  I might have fouled him a couple of times...
 
