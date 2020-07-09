@@ -2,15 +2,17 @@
 
 - 🔭 I’m currently working on Python and various web design projects
 
+- 🌱 I’m currently learning Einstein Analytics by day and by night Bootstrap 
+
 - ⚡ Fun fact: I once played basketball with Adam Sandler.  I might have fouled him a couple of times...
 
-
+<br>
 
 
 ### Get in touch
-Linkedin: https://www.linkedin.com/in/tim-frahme-5b760914/
-Twitter: https://twitter.com/FrahmeTim
-Instagram: https://www.instagram.com/tjfrahme/
+- Linkedin: https://www.linkedin.com/in/tim-frahme-5b760914/
+- Twitter: https://twitter.com/FrahmeTim
+- Instagram: https://www.instagram.com/tjfrahme/
 
 
 <!--
