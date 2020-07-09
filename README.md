@@ -4,6 +4,13 @@
 
 - ⚡ Fun fact: I once played basketball with Adam Sandler.  I might have fouled him a couple of times...
 
+
+### Get in touch
+Linkedin: https://www.linkedin.com/in/tim-frahme-5b760914/
+Twitter: https://twitter.com/FrahmeTim
+Instagram: https://www.instagram.com/tjfrahme/
+
+
 <!--
 **tjfrahme/tjfrahme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
