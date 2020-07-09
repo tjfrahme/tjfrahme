@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on Python and various web design projects
 
+- ⚡ Fun fact: I once played basketball with Adam Sandler.  I might have fouled him a couple of times...
+
 <!--
 **tjfrahme/tjfrahme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
