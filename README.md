@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- ⚡ I’m currently working on BI/Data Science things and various web design projects
+- ⚡ I’m currently working on BI/Data Science things and various web design projects.  All new repos are set to Private.
 
-- 🌱 I’m currently learning Einstein Analytics 
+- 🌱 I’m currently learning how to better integrate AI into my workflows
 
 - 😄 Fun fact: I once played basketball with Adam Sandler.  I might have fouled him a couple of times...
 
